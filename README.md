@@ -3,5 +3,5 @@
 
 Holaa, Thaakie here!
 
-You are welcomed to be here! :D
+You are welcomed to be here! :D <br> 
 Love to building things, learning new tech, and sharing what I discover.
