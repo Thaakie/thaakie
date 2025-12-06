@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Thaakie/Thaakie/main/BANNER.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Thaakie/Thaakie/main/BANNER1.png" width="100%"/>
 
 
 👋 Hi, I'm Thaakie!
