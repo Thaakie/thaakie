@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/Thaakie/Thaakie/main/BANNER1.png" width="100%" />
 
-# Hi, I'm Thaakie 👋
+# Hi, I'm Thaakie 
 
 A **Frontend Developer enthusiast** who enjoys building interactive web experiences, learning modern technologies, and continuously improving through hands-on projects.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 Currently working with and learning:
 
@@ -23,7 +23,7 @@ Currently working with and learning:
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - Passionate about **web development** and interactive user interfaces  
 - Enjoy building **small experimental projects** as well as **portfolio-ready applications**  
@@ -32,7 +32,7 @@ Currently working with and learning:
 
 ---
 
-## 📌 What I'm Currently Doing
+## What I'm Currently Doing
 
 - Improving my React fundamentals through real projects  
 - Practicing state management, component design, and UI logic  
@@ -40,7 +40,7 @@ Currently working with and learning:
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - 🌐 GitHub: [Thaakie](https://github.com/Thaakie)  
 - ✉️ Email: **atha468@gmail.com**  
@@ -48,5 +48,5 @@ Currently working with and learning:
 
 ---
 
-⭐️ *Thanks for visiting my profile!*  
+*Thanks for visiting my profile!*  
 Feel free to explore my repositories or reach out if you'd like to collaborate or share ideas.
