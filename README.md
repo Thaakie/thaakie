@@ -2,45 +2,51 @@
 
 # Hi, I'm Thaakie 
 
-A **Frontend Developer enthusiast** who enjoys building interactive web experiences, learning modern technologies, and continuously improving through hands-on projects.
+A **Frontend-focused Web Development enthusiast** with a growing interest in **basic backend development**, passionate about building interactive web interfaces and understanding how applications work end-to-end.
 
 ---
 
 ## Tech Stack
 
-Currently working with and learning:
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,nodejs" />
 </p>
 
-- **HTML5** – Semantic & accessible markup  
-- **CSS3** – Responsive layouts & modern styling  
-- **JavaScript (ES6+)** – Core logic & interactivity  
+### Frontend
+- **HTML5** – Semantic and accessible markup  
+- **CSS3** – Responsive layouts and modern styling  
+- **JavaScript (ES6+)** – Core logic and interactivity  
 - **React.js** – Component-based UI development  
-- **Tailwind CSS** – Utility-first styling  
-- **Git & GitHub** – Version control & collaboration  
+- **Tailwind CSS** – Utility-first styling workflow  
+
+### Backend (Basic)
+- **Node.js** – Basic backend logic and API handling  
+- **REST API concepts** – Request/response, routing, JSON  
+
+### Tools
+- **Git & GitHub** – Version control and collaboration  
 
 ---
 
 ## About Me
 
-- Passionate about **web development** and interactive user interfaces  
-- Enjoy building **small experimental projects** as well as **portfolio-ready applications**  
-- Curious about new tools, frameworks, and best practices  
-- Focused on writing **clean, readable, and maintainable code**  
+- Passionate about **web development**, both frontend and backend fundamentals  
+- Enjoy building **small experimental projects** and **portfolio-ready applications**  
+- Currently strengthening React skills while learning how frontend connects to backend  
+- Interested in writing **clean, readable, and maintainable code**  
 
 ---
 
-## What I'm Currently Doing
+## Currently Learning
 
-- Improving my React fundamentals through real projects  
-- Practicing state management, component design, and UI logic  
-- Exploring best practices in frontend development  
+- React fundamentals (state, props, component structure)  
+- UI logic and conditional rendering  
+- Basic backend development and REST APIs  
+- Best practices in modern web development  
 
 ---
 
-## Get in Touch
+## Contact
 
 - 🌐 GitHub: [Thaakie](https://github.com/Thaakie)  
 - ✉️ Email: **atha468@gmail.com**  
@@ -49,4 +55,4 @@ Currently working with and learning:
 ---
 
 *Thanks for visiting my profile!*  
-Feel free to explore my repositories or reach out if you'd like to collaborate or share ideas.
+Feel free to explore my repositories or reach out if you'd like to collaborate.
