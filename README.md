@@ -1,34 +1,52 @@
-<img src="https://raw.githubusercontent.com/Thaakie/Thaakie/main/BANNER1.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Thaakie/Thaakie/main/BANNER1.png" width="100%" />
 
-# Holaa, Thaakie here! 👋
+# Hi, I'm Thaakie 👋
 
-Welcome to my GitHub! :D  
-I love **building things, learning new tech**, and **sharing what I discover**.
-
----
-
-## Tech Stack
-
-Currently exploring and working with:  
-
-**HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS | GitHub**
+A **Frontend Developer enthusiast** who enjoys building interactive web experiences, learning modern technologies, and continuously improving through hands-on projects.
 
 ---
 
-## About Me
+## 🚀 Tech Stack
 
-- Passionate about web development and interactive projects  
-- Always curious to try new frameworks, libraries, and tools  
-- Enjoy creating both **small fun projects** and **portfolio-ready apps**  
+Currently working with and learning:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
+</p>
+
+- **HTML5** – Semantic & accessible markup  
+- **CSS3** – Responsive layouts & modern styling  
+- **JavaScript (ES6+)** – Core logic & interactivity  
+- **React.js** – Component-based UI development  
+- **Tailwind CSS** – Utility-first styling  
+- **Git & GitHub** – Version control & collaboration  
 
 ---
 
-## Contact Me
+## 👨‍💻 About Me
 
-- GitHub: [Thaakie](https://github.com/Thaakie)  
-- Email: atha468@gmail.com  
-- LinkedIn: (https://www.linkedin.com/in/m-atha-dzaki-yunada-35052131a/)  
+- Passionate about **web development** and interactive user interfaces  
+- Enjoy building **small experimental projects** as well as **portfolio-ready applications**  
+- Curious about new tools, frameworks, and best practices  
+- Focused on writing **clean, readable, and maintainable code**  
 
 ---
 
-Thanks for visiting! Feel free to explore my repos and reach out if you want to collaborate.
+## 📌 What I'm Currently Doing
+
+- Improving my React fundamentals through real projects  
+- Practicing state management, component design, and UI logic  
+- Exploring best practices in frontend development  
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 GitHub: [Thaakie](https://github.com/Thaakie)  
+- ✉️ Email: **atha468@gmail.com**  
+- 💼 LinkedIn: [M. Atha Dzaki Yunada](https://www.linkedin.com/in/m-atha-dzaki-yunada-35052131a/)  
+
+---
+
+⭐️ *Thanks for visiting my profile!*  
+Feel free to explore my repositories or reach out if you'd like to collaborate or share ideas.
